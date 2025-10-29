@@ -6,4 +6,4 @@ Prof. Nima Davarpanah
 
 CS 5800.01
 
-October 17, 2025
+October 29, 2025
